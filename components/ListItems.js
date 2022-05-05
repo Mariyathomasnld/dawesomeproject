@@ -36,8 +36,7 @@ const styles = StyleSheet.create({
     },
     detailsContainer:{
         padding:15,
-        marginleft:10,
-        justifyContent:'center'        
+      justifyContent:'center'        
 
     },
 picture:{
